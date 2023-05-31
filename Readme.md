@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Шмель Зелёный](https://up.htmlacademy.ru/htmlcss-individual/1/user/2375699).
-* Наставник: `Неизвестно`.
+* Наставник: [Лухарь Лухаривич](https://htmlacademy.ru/profile/id2383783).
 
 ---
 
